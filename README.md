@@ -1,17 +1,22 @@
-Kentskie Here👋
+<div align="center">
 
-  ![naruto wkwk](https://github.com/user-attachments/assets/f87dcc58-0c43-4cef-87ce-08d6f667ec15)
-🎓 IT Student
-💻 Web & System Stuff  
-⚙️ Mechatronics NC II  certified
+ KentskiexD Here 👋
+ 
+---
+<img src="https://github.com/user-attachments/assets/fe41c7dc-74ff-4b60-a446-7dfbf89e23fb" width="300"/>
 
-👾 Curious about almost everything
-☕ Debugging powered by curiosity
+🎓 **IT Student**  
+💻 **Web & System Stuff**  
+⚙️ **TESDA Mechatronics NC II Certified**
+
+</div>
+
+---
+👾 Curious about almost everything  
+☕ Debugging powered by curiosity  
 🧠 Learning mode: ON  
-🚀 Open to collaborating and growing
+🚀 Open to collaborating and growing  
 
-⚡ Fun fact: I smile a lot — might accidentally spread good vibes (^-^)
+⚡ **Fun fact:** I smile a lot — might accidentally spread good vibes (^-^)  
 
-📫 You can reach me at **dayagkent09@gmail.com**
-
-
+📫 **Reach me at:** [dayagkent09@gmail.com](mailto:dayagkent09@gmail.com)
