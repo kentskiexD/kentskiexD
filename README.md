@@ -1,6 +1,7 @@
 Kentskie Here👋
 
-🎓 IT Student  
+  ![naruto wkwk](https://github.com/user-attachments/assets/f87dcc58-0c43-4cef-87ce-08d6f667ec15)
+🎓 IT Student
 💻 Web & System Stuff  
 ⚙️ Mechatronics NC II  certified
 
