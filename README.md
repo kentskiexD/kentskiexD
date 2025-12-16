@@ -1,16 +1,16 @@
-## Hi there 👋
+Kentskie Here👋
 
-<!--
-**kentskiexD/kentskiexD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student  
+💻 Web & System Stuff  
+⚙️ Mechatronics NC II  certified
 
-Here are some ideas to get you started:
+👾 Curious about almost everything
+☕ Debugging powered by curiosity
+🧠 Learning mode: ON  
+🚀 Open to collaborating and growing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I smile a lot — might accidentally spread good vibes (^-^)
+
+📫 You can reach me at **dayagkent09@gmail.com**
+
+
